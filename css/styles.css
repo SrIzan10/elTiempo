@@ -1,0 +1,23 @@
+
+
+.footer {
+  position: fixed;
+  padding-top: 3px;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(55, 121, 221);
+  color: white;
+  font-size: 18px;
+  text-align: center;
+  float: right;
+}
+
+.enlace{
+  text-decoration: none;
+  color: black ;
+}
+.enlace:hover{
+  cursor: pointer;
+  color:black;
+}
